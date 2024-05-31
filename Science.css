@@ -1,0 +1,82 @@
+body {
+    font-family: 'Poppins';
+    background-image: url(Science\ Background.png);
+    color: white;
+}
+
+#Navbar {
+    margin-right: 15px;
+    color: white;
+}
+
+nav {
+    text-align: center;
+}
+
+#Navbar ul {
+    list-style-type: none;
+}
+
+#Navbar ul li {
+    display: inline;
+}
+
+#Navbar ul li a {
+    text-decoration: none;
+    margin-right: 30px;
+    color: white;
+    font-size: 15px;
+}
+
+#Logo {
+    font-family: 'Poppins';
+    padding-right: 350px;
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+#Navbar p {
+    padding-left: 45px;
+    color: black;
+    text-decoration: line-through white;
+}
+
+#Navbar ul li a:hover {
+    text-decoration: underline;
+}
+
+#About h1 {
+    font-size: 40px;
+    margin-left: 10px;
+
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table,
+th,
+td {
+    border: 2px solid white;
+}
+
+th,
+td {
+    padding: 20px;
+}
+
+button img{
+    width: 50px;
+    height: 50px;
+}
+
+button{
+    position: fixed;
+    right: 5%;
+    bottom: 5%;
+    left: 95%;
+    padding: 0.5px;
+    margin-right: 2px;
+}
